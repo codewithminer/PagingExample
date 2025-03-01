@@ -11,6 +11,6 @@ PagingExample is an Android application that demonstrates the use of the Paging 
 - **Glide**: An image loading and caching library for Android.
 
 ## 📸 Screenshots
-<img src="screenshots/screenshot_1.png" alt="content Screen" width="600"/>
+<img src="screenshots/Screenshot_1.png" alt="content Screen" width="600"/>
 
 
